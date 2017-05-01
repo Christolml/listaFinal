@@ -1,0 +1,10 @@
+C:\Users\CRISTOPHER\Desktop\4 semestre\Estructura de datos\2da parcial\InventarioSimple\InventarioListaSimple\InventarioListaSimple\bin\Debug\InventarioListaSimple.exe.config
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\InventarioSimple\InventarioListaSimple\InventarioListaSimple\obj\Debug\InventarioListaSimple.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\InventarioSimple\InventarioListaSimple\InventarioListaSimple\obj\Debug\InventarioListaSimple.Form1.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\InventarioSimple\InventarioListaSimple\InventarioListaSimple\obj\Debug\InventarioListaSimple.Properties.Resources.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\InventarioSimple\InventarioListaSimple\InventarioListaSimple\obj\Debug\InventarioListaSimple.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\InventarioSimple\InventarioListaSimple\InventarioListaSimple\bin\Debug\InventarioListaSimple.exe.config
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\InventarioSimple\InventarioListaSimple\InventarioListaSimple\bin\Debug\InventarioListaSimple.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\InventarioSimple\InventarioListaSimple\InventarioListaSimple\bin\Debug\InventarioListaSimple.pdb
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\InventarioSimple\InventarioListaSimple\InventarioListaSimple\obj\Debug\InventarioListaSimple.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\InventarioSimple\InventarioListaSimple\InventarioListaSimple\obj\Debug\InventarioListaSimple.pdb
